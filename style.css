@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.main{
+    max-width:1440px;
+    width: 100%;
+    height: 4000px;
+    margin: 0 auto;
+    border: 1px solid gray;
+ 
+}
+nav img{
+   
+    width: 100px;
+    height: 30px;
+    margin-top: 60px;
+    margin-left: px;
+}
+nav{
+    display: flex;
+    justify-content:;
+    width: 1200px;
+    height: 46px;
+    margin-top: px;
+    margin-left: 120px;
+    border:  ;
+}
+nav div{
+    display: ;
+    justify-content: ;
+
+}
+.navdiv{
+    display: flex;
+
+    width: 907px;
+    height: 720px;
+    margin-left:400px;
+    border-radius: 0px, 0px,0px,80px;
+    background-image: url('image/image6.png');
+}
+.navdiv2{
+    border:  ;
+    width: 486px;
+    height: 446px;
+    margin-top: 110px;
+    margin-left: 120px;
+}
+.navdiv img{
+    width: 720px;
+height: 720px;
+margin-left: px;
+border-radius: 0px, 0px, 0px, 80px;
+
+}
+nav ul li{
+    list-style: none;
+    display:inline-block  ;
+    width: Hug (96px);
+    height: Hug (34px);
+    padding: 8px, 16px, 8px, 16px;
+    border-radius: 32px;
+    border: 1px;
+    gap: 10px
+
+  
+
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 60px;
+    width: 46px;
+    height: 18px;
+    font-weight: 600px;
+    font-size: 14px;
+    line-height: 17px;
+    color:  #F0F3FD;
+
+    display: ;
+padding: 8px 16px;
+align-items: flex-start;
+border-radius: 32px;
+border: 1px solid rgba(255, 255, 255, 0.30);
+background: rgba(255, 255, 255, 0.10);
+    
+}
+#btn{
+    width: 90px;
+    height: 40px;
+    border-radius: 32px;
+    margin-top: 40px;
+    padding: 12px,24px,12px,24px;
+    background: #D1FAE5;
+    margin-left: 15px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    color:   #047857;
+    border: none;
+
+}
+.navdiv2 h2{
+    height: 120px;
+    width: 310px;
+    font-weight: 600px;
+    font-size: 40px;
+    line-height: 45px;
+    color:  #1B1C57;
+
+}
+.navdiv2 p{
+    width:390px ;
+    height: 45px;
+    opacity: 75%;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #626687;
+}
+.navdiv2 span input[type=text]{
+    width: 360px;
+    height: 46px;
+    border-radius: 32px;
+
+}
+.navdiv2 h6{
+    width: 120px;
+    height: 10px;
+    font-weight:400px;
+    font-size: 14px;
+    line-height: 32px;
+    color: #888B97;
+}
+.navdiv2 img{
+    margin: 0 15px;
+}
+
+/* *****section one ***** */
+
+.section_one{
+margin-top: 200px;
+}
+.section_one p{
+    font-size: 14px;
+    line-height: ;
+}
