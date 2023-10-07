@@ -20,17 +20,15 @@ nav img{
 }
 nav{
     display: flex;
-    justify-content:;
+  
     width: 1200px;
     height: 46px;
     margin-top: px;
     margin-left: 120px;
-    border:  ;
+    
 }
 nav div{
-    display: ;
-    justify-content: ;
-
+    
 }
 .navdiv{
     display: flex;
@@ -42,7 +40,7 @@ nav div{
     background-image: url('image/image6.png');
 }
 .navdiv2{
-    border:  ;
+    
     width: 486px;
     height: 446px;
     margin-top: 110px;
@@ -79,7 +77,7 @@ nav ul li a{
     line-height: 17px;
     color:  #F0F3FD;
 
-    display: ;
+  
 padding: 8px 16px;
 align-items: flex-start;
 border-radius: 32px;
@@ -144,6 +142,219 @@ background: rgba(255, 255, 255, 0.10);
 margin-top: 200px;
 }
 .section_one p{
+    width: 150px;
+    height: 18px;
+     font-size: 14px;
+    color: #F59E0B;
+    margin-left: 120px;
+    font-weight: 500;
+}
+ 
+.section_one h2{
+    display: inline;
+    margin-left: 120px;
+    width: 253px;
+    height: 40px;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    font-family: lexend;
+}
+
+
+.section_one ul{
+    display: inline-block;
+    margin-left: 120px;
+   
+    
+}
+.section_one ul li{
+    display:inline-block ;
+    list-style-type: none;
+    padding-left: 50px;
+   
+}
+.section_one ul li a{
+    text-decoration: none;
+    padding: 12px 40px;
+    width: 135px;
+    height: 52px;
+    border-radius: 32px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    
+    border: 1px solid;
+    
+
+}
+.div1 .lione{
+     
+ background-color: #D1FAE5;
+ color: #10B981;
+ padding: 8px 1px;
+ border-radius: 32px;
+    
+
+}
+.div2{
+    display: flex;
+    column-gap: 40px;
+    margin-left: 120px
+
+}
+.div2 > div{
+    height: 590px;
+    width: 356px;
+    margin-top: 35px;
+   
+    position: relative;
+    
+}
+.div2 > div img{
+    width: 340px;
+    height: 382px;
+    border-radius: 24px;
+}
+.div2 h3{
+    width: 340px;
+    height: 12px;
+    font-weight: 500px;
+    font-size: 24px;
+    font-family: Lexend;
+    color: #0E1735;
+}
+.div2 h4{
+    width: 340px;
+    height: 12px;
+    font-weight: 500px;
+    font-size: 20px;
+    font-family: Lexend;
+    color:#3C4563  ;
+}
+.div2 h5{
+     
+    width: 284px;
+    height: 24px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #0E1735;
+    margin-left: 10px;
+
+}
+.div2 h6{
+    width: 284px;
+    height: 2px;
+    font-weight: 500;
     font-size: 14px;
-    line-height: ;
+    font-family: lexend;
+    line-height: px;
+    color:#888B97 ;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+.div2 span{
+    display: flex;
+}
+.div2 span img{
+    
+    margin-top: 35px;
+    width: 40px;
+    height: 40px;
+}
+.div2 h2{
+    position: absolute;
+    display: inline-block;
+    margin-top: 320px;
+    font-size: 17px;
+    margin-left: 30px;
+    color: #EF4444;
+    background-color: #FEE2E2;
+    border-radius: 32px;
+    height: 34px;
+    width: 111px;
+    
+}
+ 
+/* *****section two ***** */
+.section-two{
+    display: flex;
+width: 1200px;
+height: 600px;
+ 
+    margin-top: 80px;
+    margin-left: 120px;
+
+}
+.section-two > div{
+    height: 600px;
+    width: 520px;
+    border: 1px solid;
+    display: inline-block;
+    margin-left: 0px;
+}
+ 
+
+.section-two .div-one p{
+    width: 94px;
+    height: 18px;
+    font-weight: 500px;
+    font-size: 14px;
+    color: #F59E0B;
+}
+.section-two .div-one h2{
+    width: 482px;
+    height: 40px;
+    font-weight: 600;
+    font-size: 32px;
+    color: #1B1C57;
+}
+.section-two .div-one h6{
+    width: 432px;
+    height: 56px;
+    font-weight: 400;
+    font-size: 16px;
+    color:#626687 ;
+}
+
+.section-two .div-one h4{
+    width: 413px;
+    height: 28px;
+    font-weight: 600;
+    opacity: 75%;
+    font-family: Lexend;
+    font-size: 16px;
+    color: #1B1C57;
+}
+.section-two .div-one  img{
+    width: 32px;
+    height: 32px;
+}
+.section-two .div-one h5{
+    display: inline-block;
+    padding-right: 90px;
+     width: 145px;
+     height: 20px;
+     font-weight: 500;
+     font-size: 16px;
+     color: #3C4563;
+     margin-top: -10px;
+}
+
+ .div-one span{
+    margin-top: 50px;
+}
+.div-one  .nimg{
+    width: 40px;
+    height: 40px;
+    margin-top:30px ; 
+    margin-left: 11px;  
+}
+.div-one label{
+    width: 138px;
+    height: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #888B97;
 }
